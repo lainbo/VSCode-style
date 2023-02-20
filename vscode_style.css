@@ -1,7 +1,7 @@
 .windows:lang(zh-Hans),
 .shadow-root-host,
 .scm-input .view-lines.monaco-mouse-cursor-text {
-  font-family: 'HarmonyOS Sans SC', Segoe WPC, Segoe UI, Microsoft YaHei, sans-serif !important;
+  font-family: 'HarmonyOS Sans SC Medium', Segoe WPC, Segoe UI, Microsoft YaHei, sans-serif !important;
 }
 
 /* .view-lines.monaco-mouse-cursor-text {
