@@ -1,7 +1,8 @@
 .windows:lang(zh-Hans),
 .shadow-root-host,
 .scm-input .view-lines.monaco-mouse-cursor-text {
-  font-family: 'MiSans Latin Medium', 'HarmonyOS Sans SC Medium', 'Twemoji Mozilla', Segoe WPC, Segoe UI, Microsoft YaHei, sans-serif !important;
+  font-family: 'MiSans VF', 'Twemoji Mozilla', Segoe WPC, Segoe UI, Microsoft YaHei, sans-serif !important;
+  font-weight: 500;
 }
 
 /* .view-lines.monaco-mouse-cursor-text {
